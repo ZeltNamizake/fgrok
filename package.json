@@ -1,0 +1,16 @@
+{
+  "name": "ngrok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fgrok.js",
+  "bin": {
+    "fgrok": "fgrok.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ngrok/ngrok": "^1.5.0"
+  }
+}
